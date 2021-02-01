@@ -4,7 +4,7 @@
 **hadinajafi/hadinajafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### Available for a remote job:
 [![Gmail Badge](https://img.shields.io/badge/-hadinajafi.77@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hadinajafi.77@gmail.com)](mailto:hadinajafi.77@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Hadi Najafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hadi-najafi/)](https://linkedin.com/in/hadi-najafi/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hadi%20Najafi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hadi-najafi/)](https://linkedin.com/in/hadi-najafi/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/hadinejefi/)](https://t.me/hadinejefi/)
 </p>
 
