@@ -15,7 +15,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=hadinajafi)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadinajafi&layout=compact)](https://github.com/hadinajafi/github-readme-stats)
 
-- 💻 I’m currently working on Springboot-social-app which is a twitter clone written in Spring boot.
-- 🌱 I’m currently learning Spring framewrok.
-- ☕ I’m looking to collaborate on Java projects.
+- 💻 I’m currently working on nothing.
+- 🌱 I’m currently learning Kotlin Coroutines.
+- ☕ I’m looking to collaborate on Java & Kotlin projects.
 - ⚡ Fun: I'm in love with some video games like Arma 3, & Cities skylines.
